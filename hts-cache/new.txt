@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+21:32:46	0/0	---M--	301	error ('Moved%20Permanently')	text/html	date:Tue,%2009%20Mar%202021%2018:32:46%20GMT	https://t.co/OfMWLdfg06?amp=1	C:/My%20Web%20Sites/teeeest34r/t.co/OfMWLdfg06.05593.delayed	(from )
+21:32:49	6220/6220	---MCZ	200	added ('OK')	text/html	date:Tue,%2009%20Mar%202021%2018:32:48%20GMT	https://pnrtscr.com/kqrkc7	C:/My%20Web%20Sites/teeeest34r/pnrtscr.com/kqrkc7.html	(from )
+21:32:50	1754/1754	---MCZ	200	added ('OK')	text/html	date:Tue,%2009%20Mar%202021%2018:32:50%20GMT	https://pnrtscr.com/robots.txt		(from )
+21:32:50	86406/86406	---M--	200	added ('OK')	image/png	etag:%2215186-5bcc6749dd437%22	https://pnrtscr.com/lightshot.png	C:/My%20Web%20Sites/teeeest34r/pnrtscr.com/lightshot.png	(from https://pnrtscr.com/kqrkc7)
+21:32:52	973641/973641	---M--	200	added ('OK')	video/mp4	etag:%22edb49-5bcc6749df377%22	https://pnrtscr.com/video.mp4	C:/My%20Web%20Sites/teeeest34r/pnrtscr.com/video.mp4	(from https://pnrtscr.com/kqrkc7)
